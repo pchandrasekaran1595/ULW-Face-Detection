@@ -1,0 +1,11 @@
+__pycache__
+.pytest_cache
+.vscode
+venv
+temp.*
+t*.bat
+*.jpg
+*.png
+*.mp4
+*.avi
+output
